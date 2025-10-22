@@ -1,8 +1,5 @@
-/// push_widgets: Reusable, prefixed widgets and theme utilities.
-///
-/// This package provides a well-structured set of `PW*` widgets to avoid
-/// naming conflicts across apps, plus a common Material 3 theme.
-library push_widgets;
+// push_widgets: Reusable, prefixed widgets and theme utilities.
+// Provides `PW*` widgets and a Material 3 theme.
 
 // Themes
 export 'src/theme/pw_theme.dart';

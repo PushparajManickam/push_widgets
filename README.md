@@ -121,7 +121,7 @@ Use the "Toggle Theme" button to switch between light/dark.
 3. Use `PWTheme` for Material 3 theming, and `PWText`, `PWButton`, `PWAppBar` in your UI.
 
 ## Contributing & Issues
-- Issues: https://github.com/yourname/push_widgets/issues
+- Issues: https://github.com/pushparajmanickam/push_widgets/issues
 - Pull requests are welcome. Keep the `PW` prefix convention and Material 3 alignment.
 
 ## License

@@ -43,7 +43,7 @@ class _PushWidgetsExampleAppState extends State<PushWidgetsExampleApp> {
                 child: const Text('Click Me'),
               ),
               PWSpacer.h(16),
-              PWText('Current theme: ' + (_isDark ? 'Dark' : 'Light')),
+              PWText('Current theme: ${_isDark ? 'Dark' : 'Light'}'),
               PWSpacer.h(8),
               PWButton(
                 onPressed: () => setState(() => _isDark = !_isDark),
